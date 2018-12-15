@@ -16,5 +16,4 @@ In the extended game, there are three additional units available:
 
 Rules for the exteded game are defined within the Pythin executable file.
 
-Python packages used:
-- 
+
